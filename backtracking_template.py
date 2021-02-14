@@ -22,7 +22,7 @@ def backtrack(candidate):
 #/////////////////////////////////////////////////////////////////////////////
 # Template from a different place
 # General structure of backtracking
-function dfs(current_status):
+def dfs(current_status):
       if(condition):
         record or output
         return
